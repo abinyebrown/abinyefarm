@@ -63,6 +63,11 @@ body{
     background: #004d00;
     color: white;
 }
+.team{
+    font-size: 80px;
+    color: white;
+    text-align: center;
+}
 .welcome{
     padding-top: 20px;
     padding-bottom: 10px;
